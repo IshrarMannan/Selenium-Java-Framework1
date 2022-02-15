@@ -1,0 +1,5 @@
+[INFO ] 2022-02-11 12:58:36.057 [main] Log4j_Demo - Logger
+[ERROR] 2022-02-11 12:58:36.061 [main] Log4j_Demo - Error msg
+[WARN ] 2022-02-11 12:58:36.062 [main] Log4j_Demo - Warning msg
+[FATAL] 2022-02-11 12:58:36.062 [main] Log4j_Demo - fatal msg
+[TRACE] 2022-02-11 12:58:36.062 [main] Log4j_Demo - trace msg
